@@ -4,6 +4,7 @@ composer create-project laravel/laravel nameproyect"
 
 
 1) cambiar el web
+2) configuracion de Schema
 
 instalacion de npm 
 npm i
