@@ -1,6 +1,9 @@
-Crear proyecto 
-composer create-project laravel/laravel nameproyect
+"Crear proyecto 
+composer create-project laravel/laravel nameproyect"
 ----------------------
+
+
+1) cambiar el web
 
 instalacion de npm 
 npm i
